@@ -10,6 +10,7 @@
 meeting-01/rendered/
 meeting-01/rendered-v2/
 meeting-01/archive/
+meeting-01/speaker-notes-zh.md
 .cache/
 __pycache__/
 *.pyc
