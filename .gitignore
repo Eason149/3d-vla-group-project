@@ -8,6 +8,8 @@
 *.xdv
 .tools/
 meeting-01/rendered/
+meeting-01/rendered-v2/
+meeting-01/archive/
 .cache/
 __pycache__/
 *.pyc
@@ -19,4 +21,3 @@ data/
 checkpoints/
 .env
 .env.*
-
